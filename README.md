@@ -1,0 +1,2 @@
+# SharedMTry
+.netframework edition
